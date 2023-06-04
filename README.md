@@ -1,4 +1,8 @@
 ### Hi there 👋
+I am an sofeware engineer
+  
+<!-- ![regancz's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=regancz&layout=compact&theme=dracula&border_radius=10&hide_border=1&card_width=295) -->
+![regancz's GitHub stats](https://github-readme-stats.vercel.app/api?username=regancz&show_icons=true&theme=dracula&border_radius=10&hide_border=1)
 
 <!--
 **regancz/regancz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
