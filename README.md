@@ -5,7 +5,7 @@ I am an sofeware engineer
 
 🎓 Four-year bachelor student at [SXU University](https://www.sxu.edu.cn/)
 
-💡 Zhihu：[Kohach1](https://www.zhihu.com/people/cjocean)
+<!-- 💡 Zhihu：[Kohach1](https://www.zhihu.com/people/cjocean) -->
 
 📫 Email: 877477192@qq.com
   
