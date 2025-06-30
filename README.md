@@ -1,13 +1,5 @@
 ### Hi there 👋
 I am an sofeware engineer
-
-🎓 Third-year master student at [SWJTU University](https://www.swjtu.edu.cn/)
-
-🎓 Four-year bachelor student at [SXU University](https://www.sxu.edu.cn/)
-
-<!-- 💡 Zhihu：[Kohach1](https://www.zhihu.com/people/cjocean) -->
-
-📫 Email: 877477192@qq.com
   
 <!-- ![regancz's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=regancz&layout=compact&theme=dracula&border_radius=10&hide_border=1&card_width=295) -->
 ![regancz's GitHub stats](https://github-readme-stats.vercel.app/api?username=regancz&show_icons=true&theme=dracula&border_radius=10&hide_border=1)
